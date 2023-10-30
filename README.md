@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CrazieGuru
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me @craziee_guru_
